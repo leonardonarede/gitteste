@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> origin/master
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -23,6 +26,7 @@ public class Gitteste {
         System.out.println("hahaha tá dando certo");
     }
     
+<<<<<<< HEAD
 }
 =======
 >>>>>>> origin/master
@@ -50,4 +54,7 @@ public class Gitteste {
 <<<<<<< HEAD
 =======
 >>>>>>> origin/master
+>>>>>>> origin/master
+=======
+}
 >>>>>>> origin/master
